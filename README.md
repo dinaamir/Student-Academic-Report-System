@@ -6,12 +6,12 @@ What it can do? <br/>
 1. A menu system that will allow the user to load data from a .csv file. <br/>
 2. The user should be able to store the results of any step (operation) in a HTML file format. <br/>
 3. The program should be able to find the following of a column or all the column... <br/>
-- Minimum <br/>
-- Maximum <br/>
-- Median <br/>
-- Mean  <br/>
-- Variance <br/>
-- Standard Deviation <br/>
+    - Minimum <br/>
+    - Maximum <br/>
+    - Median <br/>
+    - Mean  <br/>
+    - Variance <br/>
+    - Standard Deviation <br/>
 4. Display the distinct numbers (no repetition) and a count of the occurrences of each number (frequency) in a tabular form.
 5. Plot histogram for the data in textual form. (printed in ***** format) <br/>
 6. Display two tables with the data items above and below the mean and displaying the number of those below and above the mean. <br/>
